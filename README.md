@@ -10,7 +10,7 @@ Participants who successfully complete the program receive the **TechOps Apex St
 
 - **Program Format:** Instructor-led, project-based learning
 - **Duration:** 12 structured modules (Intermediate level)
-- **Delivery:** Hybrid (Online + Optional Live Workshops)
+- **Delivery:** Hybrid (Online)
 - **Credential Awarded:** TechOps Apex Standard Technical Writing Certificate
 
 ---
