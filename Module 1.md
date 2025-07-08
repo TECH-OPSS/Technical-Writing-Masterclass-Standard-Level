@@ -2,8 +2,6 @@
 
 ---
 
-### **Introduction**
-
 In technology, where agility, scale, and innovation define success, technical documentation forms the bedrock upon which sustainable software development thrives. While code is the engine of software systems, technical writing is the steering wheel—providing direction, context, and usability. In this module, we dive into the **fundamentals of technical writing**, exploring its indispensable role in software projects, core writing principles, and the types of documentation that drive user and developer engagement.
 
 This module is tailored for **software engineers**, who aim to elevate their documentation practices beyond the basic, into a strategic and professional discipline. Whether you're building an API for millions of developers or shipping release notes for a groundbreaking SaaS product, the ability to communicate clearly, concisely, and with audience awareness is a superpower.
